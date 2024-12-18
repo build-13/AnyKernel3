@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=STRIX kernel by fiqri19102002 @ github
+kernel.string=STRIX kernel by std @ github
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -12,7 +12,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=mojito
 device.name2=sunny
-supported.versions=11-14
+supported.versions=11-15
 supported.patchlevels=
 '; } # end properties
 
